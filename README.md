@@ -1,20 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0E2954&text=Worth%20It&fontColor=DDE6ED&fontSize=60&fontAlign=18)
-<br/>  
-#### Welcome my github profile ! :wave:
-<br/>
-<br/>
-
 <!--
-**beworthK/beworthK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0E2954&text=Worth%20It&fontColor=DDE6ED&fontSize=60&fontAlign=18)
 -->
+
+## 대화를 즐기는 개발자
+
+### Welcome my github profile ! :wave:
+
+
